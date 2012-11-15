@@ -1,0 +1,5 @@
+{application, pipeline, [
+    {description, "Erlang function pipeline pare_transform"},
+    {vsn, "0.1"},
+    {applications, [kernel, stdlib]}
+  ]}.
