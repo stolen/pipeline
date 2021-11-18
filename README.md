@@ -1,3 +1,7 @@
+DEPRECATED
+===============
+Please use this maintained fork instead: https://github.com/choptastic/pipeline
+
 Erlang Pipeline parse\_transform
 =============================
 
